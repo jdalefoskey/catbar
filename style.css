@@ -23,9 +23,9 @@ input[type='password'] {
 
 /* Set a style for all buttons */
 button {
-  background-color: cornflowerblue;
-  color: white;
-  padding: 14px 20px;
+  /* background-color: cornflowerblue; */
+  color: black;
+  padding: 8px 20px;
   margin: 8px 0;
   border: none;
   cursor: pointer;
@@ -148,12 +148,12 @@ span.psw {
 
 #loginButton {
   margin: 30% 45% 30% 45%;
-  max-width: 300px;
-  background-color: #888;
+  max-width: 20%;
+  /* background-color: #888; */
 }
 
 #mainButton {
-  background-color: #888;
+  /* background-color: #888; */
 }
 
 #heading {
