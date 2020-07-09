@@ -4,7 +4,7 @@
 ## Description
 During these times of social distancing, We can forget about our fellow 4 leggers, You know, they get bored at home so why not a way for them to hang out virtually?  Get your catnip ready!
 
-![screenshot 1](assets/screenshot.png)
+![screenshot 1](screenshot.png)
 
 
 
